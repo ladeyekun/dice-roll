@@ -142,6 +142,6 @@ section {
         transform: rotateX(0deg) rotateY(0deg);
     }
     to {
-        transform: rotateX(360deg) rotateY(720deg);
+        transform: rotateX(1440deg) rotateY(1440deg);
     }
 }

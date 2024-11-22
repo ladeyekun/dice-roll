@@ -25,7 +25,7 @@ listen('click', rollBtn, () => {
         dice1Obj.classList.remove('roll');
         dice2Obj.classList.remove('roll');
         roll();
-    }, 1000);
+    }, 2000);
     roll();
 });
 

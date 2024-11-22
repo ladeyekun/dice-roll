@@ -19,7 +19,13 @@ const dice1Obj = select('.dice-one');
 const dice2Obj = select('.dice-two');
 
 listen('click', rollBtn, () => {
-    console.log('Dice roll');
+    dice1Obj.classList.add('roll');
+    dice2Obj.classList.add('roll');
+    setTimeout(() => {
+        dice1Obj.classList.remove('roll');
+        dice2Obj.classList.remove('roll');
+        roll();
+    }, 1000);
     roll();
 });
 

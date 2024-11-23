@@ -43,7 +43,7 @@ dice. Here is a snippet of rolling effect used for this app
 ```
 
 ### 3. Add Javascript file
-Add ```assets/js/app.js``` to implement the interaction of users 
+Add ```assets/js/app.js``` file to implement the interaction of users 
 with the elements on the app. Add an event listener to roll the 
 dice when the button is clicked. When the button is clicked, a 
 random number is selected between 1 and 6, and the font awesome 
@@ -74,7 +74,7 @@ number on the dice.
 
 ## Download the project
 
-To download, install and use Dice Roll, follow these step-by-step 
+To download, install and use the Dice Roll app, follow these step-by-step 
 instructions:
 
 1. Clone the GitHub repository: Start by cloning the GitHub repository 
@@ -86,3 +86,11 @@ git clone https://github.com/ladeyekun/dice-roll.git
 ```
 
 2. Open the ```index.html``` on a web browser of your choice.
+
+## Contact
+
+Feel free to reach out to me on my email: lateef.adeyekun@gmail.com
+
+## License
+
+[![License](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blue)](https://opensource.org/license/MIT)

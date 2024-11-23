@@ -85,7 +85,6 @@ body {
 
 main {
     height: var(--app-page-height);
-    border: 1px solid blue;
 }
 
 section {
